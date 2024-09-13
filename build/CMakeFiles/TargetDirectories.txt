@@ -1,8 +1,0 @@
-C:/Users/ivanz/prog/cpp/ascii_game/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/src/CMakeFiles/ascii_game_lib.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/src/CMakeFiles/ascii_game.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/src/CMakeFiles/RUN_TESTS.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/tests/CMakeFiles/test_renderer.dir
-C:/Users/ivanz/prog/cpp/ascii_game/build/tests/CMakeFiles/RUN_TESTS.dir
