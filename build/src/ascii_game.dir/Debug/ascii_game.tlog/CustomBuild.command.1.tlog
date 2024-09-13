@@ -1,0 +1,10 @@
+^C:\USERS\IVANZ\PROG\CPP\ASCII_GAME\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ivanz/prog/cpp/ascii_game -BC:/Users/ivanz/prog/cpp/ascii_game/build --check-stamp-file C:/Users/ivanz/prog/cpp/ascii_game/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
